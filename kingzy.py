@@ -63,6 +63,7 @@ class SavingsAccount(Account):
 
     def get_balance(self):
         return super().get_balance()
+    print("goodbye")
 
 
 # Testing
